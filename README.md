@@ -1,2 +1,2 @@
 # Recast.AI
-We turn speech into actionable data
+Bring conversation to any app through our collaborative Natural Language Platform!
