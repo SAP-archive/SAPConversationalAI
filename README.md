@@ -1,2 +1,2 @@
 # Recast.AI
-Bring conversation to any app through our collaborative Natural Language Platform!
+Build your own conversational bot on our Collaborative Bot Platform!
