@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-recast-ai.png" />
+  <img src="assets/logo-bots.png" />
 </p>
 
 Build your own conversational bot on our Collaborative Bot Platform!
