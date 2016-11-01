@@ -13,11 +13,11 @@ Build your own conversational bot on our Collaborative Bot Platform!
 * Create an **issue** in this repository
 * Contact us directly: **hello@recast.ai**
 
+
+
 <p align="center">
   <img src="assets/contribute.png" />
 </p>
-<br>
-
 
 ## Contribute or create new SDKs for our API
 * [NodeJS](https://github.com/RecastAI/SDK-NodeJS)
