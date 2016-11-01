@@ -1,4 +1,7 @@
-# Recast.AI
+<p align="center">
+  <img src="assets/logo.png" />
+</p>
+
 Build your own conversational bot on our Collaborative Bot Platform!
 
 ## Gettings started
@@ -14,7 +17,7 @@ Build your own conversational bot on our Collaborative Bot Platform!
 * Contact us directly: **hello@recast.ai**
 
 
-
+<br/>
 <p align="center">
   <img src="assets/contribute.png" />
 </p>
@@ -29,6 +32,8 @@ Build your own conversational bot on our Collaborative Bot Platform!
 * [IOS](https://github.com/RecastAI/SDK-iOS)
 * [Android](https://github.com/RecastAI/SDK-Android)
 * [Scala](https://github.com/RecastAI/SDK-Scala)
+
+Check the next SDKs [list](https://github.com/RecastAI/Recast.AI/labels/help%20wanted)
 
 ## Contribute or create starter kits for the community
 * [Messenger bot](https://github.com/RecastAI/bot-messenger)
