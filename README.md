@@ -2,7 +2,6 @@
   <img src="assets/logo-bots.png" />
 </p>
 
-Build your own conversational bot on our Collaborative Bot Platform!
 
 ## Gettings started
 * [Recast.AI tutorial](https://blog.recast.ai/build-first-bot-botbuilder/) - Build your first bot with BotBuilder
