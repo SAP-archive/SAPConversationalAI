@@ -15,6 +15,16 @@
 * Create an **issue** in this repository
 * Contact us directly: **hello@recast.ai**
 
+## New features coming soon
+- [x] Add sentiment analysis to the /request endpoint
+- [x] Improve french entities detection
+- [] Add collaborators in your bot
+- [] Add list of synonyms for your entities
+- [] View entities in expressions in the train tab
+- [] Add conditional path in the Bot Builder depending the value of entities
+- [] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
+- [] Spanish support
+- [] German support
 
 <br/>
 <p align="center">
