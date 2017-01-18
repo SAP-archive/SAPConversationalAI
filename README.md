@@ -20,8 +20,8 @@
 - [x] Improve french entities detection
 - [x] View entities in expressions in the train tab
 - [x] Add conditional path in the Bot Builder depending the value of entities
-- [ ] Add collaborators in your bot
-- [ ] Add list of synonyms for your entities
+- [x] Add collaborators in your bot
+- [x] Add list of synonyms for your entities
 - [ ] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
 - [ ] Spanish support
 - [ ] German support
