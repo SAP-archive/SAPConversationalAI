@@ -23,6 +23,9 @@
 - [x] Add collaborators in your bot
 - [x] Add list of synonyms for your entities
 - [ ] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
+- [ ] Show which entities are tagged
+- [ ] Get metrics about your bot training
+- [ ] Deploy your code and host your bot :)
 - [ ] Spanish support
 - [ ] German support
 
