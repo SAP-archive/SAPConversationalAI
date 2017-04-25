@@ -4,7 +4,8 @@
 
 
 ## Gettings started
-* [Recast.AI tutorial](https://blog.recast.ai/build-first-bot-botbuilder/) - Build your first bot with BotBuilder
+* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder
+* [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - A Github bot! 
 * [Getting started with Recast.AI platform](https://youtu.be/Lg5rRLlYbK8?list=PLPQwLOaGjgF9hliUgznzcvmzZXUUV4W-g) - video playlist to learn best practices
 * [Building a bot with Bot Builder](https://www.youtube.com/playlist?list=PLPQwLOaGjgF_2GMXhPNkxCZgYcquhMPa4) - video playlist to build your first bot
 * [Best practices](https://blog.recast.ai/tips-start-platform/) - Best practices and tips to use the Recast.AI platform 
