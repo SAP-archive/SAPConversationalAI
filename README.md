@@ -22,12 +22,16 @@
 - [x] Add conditional path in the Bot Builder depending the value of entities
 - [x] Add collaborators in your bot
 - [x] Add list of synonyms for your entities
-- [ ] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
-- [ ] Show which entities are tagged
-- [ ] Get metrics about your bot training
-- [ ] Deploy your code and host your bot :)
-- [ ] Spanish support
+- [x] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
+- [x] Show which entities are tagged
+- [x] Get metrics about your bot training
+- [x] Deploy your code and host your bot :)
+- [x] Spanish support
 - [ ] German support
+- [ ] Twitter integration
+- [ ] Salesforce integration
+- [ ] Gitlab integration to deploy your repositories
+- [ ] Support private repositories
 
 <br/>
 <p align="center">
@@ -48,16 +52,10 @@
 Check the next SDKs [list](https://github.com/RecastAI/Recast.AI/labels/help%20wanted)
 
 ## Contribute or create starter kits for the community
-* [Messenger bot](https://github.com/RecastAI/starter-bot-messenger)
-* [Slack bot](https://github.com/RecastAI/starter-bot-slack)
-* [Kik bot](https://github.com/RecastAI/starter-bot-kik)
-* [Twillio bot](https://github.com/RecastAI/starter-bot-twillio)
-* [Line bot](https://github.com/RecastAI/starter-bot-line)
-* [Cisco Spark bot](https://github.com/RecastAI/starter-bot-ciscoSpark)
-* [Telegram bot](https://github.com/RecastAI/starter-bot-telegram)
-* [Smooch bot](https://github.com/RecastAI/starter-bot-smooch)
-* [Microsoft Bot Connector](https://github.com/RecastAI/starter-bot-microsoft-connector)
-
+* [NodeJS](https://github.com/RecastAI/starter-NodeJS)
+* [Ruby](https://github.com/RecastAI/starter-ruby)
+* [Python](https://github.com/RecastAI/starter-python)
+* [PHP](https://github.com/RecastAI/starter-PHP)
 
 * Contribute to the [bot-dialog](https://github.com/RecastAI/botlerplate), the node-module for our NodeJS bot framework
 
