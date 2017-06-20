@@ -3,7 +3,7 @@
 </p>
 
 
-## Gettings started
+## Getting started
 * [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder
 * [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - A Github bot! 
 * [Getting started with Recast.AI platform](https://youtu.be/Lg5rRLlYbK8?list=PLPQwLOaGjgF9hliUgznzcvmzZXUUV4W-g) - video playlist to learn best practices
