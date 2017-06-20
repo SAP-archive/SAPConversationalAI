@@ -28,11 +28,11 @@
 - [x] Get metrics about your bot training
 - [x] Deploy your code and host your bot :)
 - [x] Spanish support
+- [x] Twitter integration
+- [x] Gitlab integration to deploy your repositories
+- [x] Support private repositories
 - [ ] German support
-- [ ] Twitter integration
 - [ ] Salesforce integration
-- [ ] Gitlab integration to deploy your repositories
-- [ ] Support private repositories
 
 <br/>
 <p align="center">
