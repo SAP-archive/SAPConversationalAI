@@ -26,13 +26,16 @@
 - [x] Connect your bot directly in the platform (You can use [Bot Connector](https://botconnector.recast.ai) now)
 - [x] Show which entities are tagged
 - [x] Get metrics about your bot training
-- [x] Deploy your code and host your bot :)
+- [x] Deploy your code and host your bot
 - [x] Spanish support
-- [x] Twitter integration
+- [x] Twitter channel
 - [x] Gitlab integration to deploy your repositories
-- [x] Support private repositories
+- [x] Support private Gitlab repositories
 - [ ] German support
 - [ ] Salesforce integration
+- [ ] Add a way to merge intents
+- [ ] Add the ability to label entities in the Log Feed
+- [ ] Add Twitch channel
 
 <br/>
 <p align="center">
