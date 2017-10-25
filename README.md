@@ -6,9 +6,7 @@
 ## Getting started
 * [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder
 * [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - A Github bot! 
-* [Getting started with Recast.AI platform](https://youtu.be/Lg5rRLlYbK8?list=PLPQwLOaGjgF9hliUgznzcvmzZXUUV4W-g) - video playlist to learn best practices
-* [Building a bot with Bot Builder](https://www.youtube.com/playlist?list=PLPQwLOaGjgF_2GMXhPNkxCZgYcquhMPa4) - video playlist to build your first bot
-* [Best practices](https://blog.recast.ai/tips-start-platform/) - Best practices and tips to use the Recast.AI platform 
+* [Guides](https://https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
 * [Documentation](https://man.recast.ai/) - API documentation
 
 ## Questions or issues?
@@ -31,9 +29,9 @@
 - [x] Twitter channel
 - [x] Gitlab integration to deploy your repositories
 - [x] Support private Gitlab repositories
+- [x] Add a way to merge intents
 - [ ] German support
 - [ ] Salesforce integration
-- [ ] Add a way to merge intents
 - [ ] Add the ability to label entities in the Log Feed
 - [ ] Add Twitch channel
 
@@ -51,7 +49,6 @@
 * [Golang](https://github.com/RecastAI/SDK-Golang)
 * [IOS](https://github.com/RecastAI/SDK-iOS)
 * [Android](https://github.com/RecastAI/SDK-Android)
-* [Scala](https://github.com/RecastAI/SDK-Scala)
 
 Check the next SDKs [list](https://github.com/RecastAI/Recast.AI/labels/help%20wanted)
 
@@ -61,7 +58,6 @@ Check the next SDKs [list](https://github.com/RecastAI/Recast.AI/labels/help%20w
 * [Python](https://github.com/RecastAI/starter-python)
 * [PHP](https://github.com/RecastAI/starter-PHP)
 
-* Contribute to the [bot-dialog](https://github.com/RecastAI/botlerplate), the node-module for our NodeJS bot framework
 
 ## Join the team
 We are hiring, check our job opportunities [here](https://recast.ai/jobs)
