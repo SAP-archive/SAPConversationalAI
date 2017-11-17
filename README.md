@@ -2,17 +2,33 @@
   <img src="assets/logo-bots.png" />
 </p>
 
+## WHAT IS RECAST.AI?
+
+We build products to help brands and individuals have a better understanding of user inputs.
+
+-   **NLP API**: a unique API for text processing, and augmented training.
+-   **Bot Building Tools**: all you need to create smart bots powered by Recast.AI's NLP API. Design even the most complex conversation flow, use all rich messaging formats and connect to external APIs and services.
+-   **Bot Connector API**: standardizes the messaging format across all channels, letting you connect your bots to any channel in minutes.
+
+**Don't reinvent the wheel, simply fork it from the best!**
+
+Recast.AI is a **community platform**: just like on GitHub, you can fork any bot or intent to speed up your bot development. Discuss with other bot makers in the community [on our Slack](https://slack.recast.ai/) to learn all the tips and tricks.
 
 ## Getting started
-* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder
-* [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - A Github bot! 
+
+The bot builder gives you access to: 
+
+-   A **visual interface** to design the flow, build the conversation logic and set up replies.
+
+
+-   **Webhook features** to connect your bot to your own API or other services to fetch external data.
+
+### Resources
+
+* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder (No-Code)
+* [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - Buid a Github bot with BotBuilder and a server 
 * [Guides](https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
 * [Documentation](https://man.recast.ai/) - API documentation
-
-## Questions or issues?
-* [Slack group](https://slack.recast.ai/) - Join our community, share your bots, ask your questions
-* Create an **issue** in this repository
-* Contact us directly: **hello@recast.ai**
 
 ## New features coming soon
 - [x] Add sentiment analysis to the /request endpoint
@@ -30,7 +46,7 @@
 - [x] Gitlab integration to deploy your repositories
 - [x] Support private Gitlab repositories
 - [x] Add a way to merge intents
-- [ ] German support
+- [x] German support
 - [ ] Salesforce integration
 - [ ] Add the ability to label entities in the Log Feed
 - [x] Add Twitch channel
