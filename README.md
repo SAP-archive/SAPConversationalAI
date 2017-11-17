@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-bots.png" />
+  <img src="assets/logo2.png" />
 </p>
 
 ## WHAT IS RECAST.AI?
