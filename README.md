@@ -6,7 +6,7 @@
 ## Getting started
 * [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder
 * [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - A Github bot! 
-* [Guides](https://https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
+* [Guides](https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
 * [Documentation](https://man.recast.ai/) - API documentation
 
 ## Questions or issues?
@@ -33,7 +33,7 @@
 - [ ] German support
 - [ ] Salesforce integration
 - [ ] Add the ability to label entities in the Log Feed
-- [ ] Add Twitch channel
+- [x] Add Twitch channel
 
 <br/>
 <p align="center">
