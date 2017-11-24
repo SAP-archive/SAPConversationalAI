@@ -28,7 +28,7 @@ The bot builder gives you access to:
 * [Python Tutorial](https://recast.ai/blog/python-cryptobot/) - Build a cryptobot with Bot Builder and a server
 
 ### RESOURCES
-* [Guides](https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
+* [Bot Builder Guide](https://recast.ai/docs): Best practices and tips to use the Recast.AI platform 
 * [API Documentation](https://man.recast.ai/) - API documentation
 
 ## New features coming soon
