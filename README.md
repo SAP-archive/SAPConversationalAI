@@ -24,7 +24,7 @@ The bot builder gives you access to:
 
 ### TUTORIALS
 * [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with Bot Builder
-* [Bots 101 for Developers](https://recast.ai/blog/bots-introduction-developers/) - Overview of how to get started building your bot's server
+* [Bots 101, Intro for Developers](https://recast.ai/blog/bots-introduction-developers/) - Overview of how to get started building your bot's server
 * [Python Tutorial](https://recast.ai/blog/python-cryptobot/) - Build a cryptobot with Bot Builder and a server
 
 ### RESOURCES
