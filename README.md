@@ -14,21 +14,22 @@ We build products to help brands and individuals have a better understanding of 
 
 Recast.AI is a **community platform**: just like on GitHub, you can fork any bot or intent to speed up your bot development. Discuss with other bot makers in the community [on our Slack](https://slack.recast.ai/) to learn all the tips and tricks.
 
-## Getting started
+## GETTING STARTED
 
 The bot builder gives you access to: 
 
 -   A **visual interface** to design the flow, build the conversation logic and set up replies.
 
-
 -   **Webhook features** to connect your bot to your own API or other services to fetch external data.
 
-### Resources
+### TUTORIALS
+* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with Bot Builder
+* [Bots 101 for Developers](https://recast.ai/blog/bots-introduction-developers/) - Overview of how to get started building your bot's server
+* [Python Tutorial](https://recast.ai/blog/python-cryptobot/) - Build a cryptobot with Bot Builder and a server
 
-* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with BotBuilder (No-Code)
-* [NodeJS tutorial](https://blog.recast.ai/tutorial-node-js-chatbot-recast-ai-github/) - Buid a Github bot with BotBuilder and a server 
+### RESOURCES
 * [Guides](https://recast.ai/docs) - Best practices and tips to use the Recast.AI platform 
-* [Documentation](https://man.recast.ai/) - API documentation
+* [API Documentation](https://man.recast.ai/) - API documentation
 
 ## New features coming soon
 - [x] Add sentiment analysis to the /request endpoint
