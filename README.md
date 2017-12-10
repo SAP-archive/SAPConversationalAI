@@ -31,7 +31,15 @@ The bot builder gives you access to:
 * [Bot Builder Guide](https://recast.ai/docs): Best practices and tips to use the Recast.AI platform 
 * [API Documentation](https://man.recast.ai/) - API documentation
 
-## New features coming soon
+## STATUS - MAJOR UPDATES
+
+* Bot Skills (December 4, 2017): Autonomous conversational modules included in our Bot Builder tool. [Learn More](https://recast.ai/blog/build-your-first-bot-with-recast-ai/?utm_source=crepe&utm_medium=bot)
+* Expression Suggestions (October 5, 2017): Automatic suggestions while creating expressions = blazing fast training. [Learm More](https://recast.ai/blog/ai-building-ai/?utm_source=crepe&utm_medium=bot)
+* Any Language (July 10, 2017): All existing languages are now available on our platform. [Learn More](https://recast.ai/blog/tuto-any-language/?utm_source=crepe&utm_medium=bot)
+
+[FULL CHANGELOG](https://recast.ai/docs/api-reference/#changelogs)
+
+### NEW FEATURES COMING SOON
 - [x] Add sentiment analysis to the /request endpoint
 - [x] Improve french entities detection
 - [x] View entities in expressions in the train tab
