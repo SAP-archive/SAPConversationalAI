@@ -40,8 +40,8 @@ The bot builder gives you access to:
 ## STATUS - MAJOR UPDATES
 
 * [Bot Skills](https://recast.ai/blog/build-your-first-bot-with-recast-ai/?utm_source=crepe&utm_medium=bot) (December 4, 2017): Autonomous conversational modules included in our Bot Builder tool. 
-* [Expression Suggestions]https://recast.ai/blog/ai-building-ai/?utm_source=crepe&utm_medium=bot) (October 5, 2017): Automatic suggestions while creating expressions = blazing fast training. 
-* [Any Language]https://recast.ai/blog/tuto-any-language/?utm_source=crepe&utm_medium=bot) (July 10, 2017): All existing languages are now available on our platform.
+* [Expression Suggestions](https://recast.ai/blog/ai-building-ai/?utm_source=crepe&utm_medium=bot) (October 5, 2017): Automatic suggestions while creating expressions = blazing fast training. 
+* [Any Language](https://recast.ai/blog/tuto-any-language/?utm_source=crepe&utm_medium=bot) (July 10, 2017): All existing languages are now available on our platform.
 
 [FULL CHANGELOG](https://recast.ai/docs/api-reference/#changelogs)
 
