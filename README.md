@@ -2,6 +2,12 @@
   <img src="assets/logo2.png" />
 </p>
 
+| [GETTING STARTED](#GETTING-STARTED) | [TUTORIALS][] | [Video Example][] | [Getting Started][] | [Documentation][] | [Examples][] | [Credits][] | [License][] |
+|---|---|---|---|---|---|---|---|
+
+
+**[ :speech_balloon: Questions / Comments? Join the discussion on our community Slack channel!](https://slack.recast.ai/)**
+
 ## WHAT IS RECAST.AI?
 
 We build products to help brands and individuals have a better understanding of user inputs.
