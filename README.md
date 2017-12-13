@@ -2,7 +2,7 @@
   <img src="assets/logo2.png" />
 </p>
 
-| [GETTING STARTED](#GETTING-STARTED) | [TUTORIALS][] | [Video Example][] | [Getting Started][] | [Documentation][] | [Examples][] | [Credits][] | [License][] |
+| [GETTING STARTED](https://github.com/RecastAI/Recast.AI/blob/master/README.md#getting-started) | [TUTORIALS](https://github.com/RecastAI/Recast.AI/blob/master/README.md#tutorials) | [UPDATES STATUS](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [CONTRIBUTE](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [DOCUMENTATION](https://recast.ai/docs/api-reference/) | [SERVICE STATUS](https://status.recast.ai/) | [BLOG](https://recast.ai/blog)] | [LICENSE](https://recast.ai/terms) |
 |---|---|---|---|---|---|---|---|
 
 
