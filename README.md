@@ -2,8 +2,8 @@
   <img src="assets/logo2.png" />
 </p>
 
-| [GETTING STARTED](https://github.com/RecastAI/Recast.AI/blob/master/README.md#getting-started) | [TUTORIALS](https://github.com/RecastAI/Recast.AI/blob/master/README.md#tutorials) | [UPDATES STATUS](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [CONTRIBUTE](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [DOCUMENTATION](https://recast.ai/docs/api-reference/) | [SERVICE STATUS](https://status.recast.ai/) | [BLOG](https://recast.ai/blog)] | [LICENSE](https://recast.ai/terms) |
-|---|---|---|---|---|---|---|---|
+| [Getting Started](https://github.com/RecastAI/Recast.AI/blob/master/README.md#getting-started) | [API Documentation](https://recast.ai/docs/api-reference/) | [Updates Status](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [Contribute](https://github.com/RecastAI/Recast.AI/blob/master/README.md#contribute-or-create-new-sdks-for-our-api) | [Service Status](https://status.recast.ai/) | [License](https://recast.ai/terms) |
+|---|---|---|---|---|---|
 
 
 **[ :speech_balloon: Questions / Comments? Join the discussion on our community Slack channel!](https://slack.recast.ai/)**
