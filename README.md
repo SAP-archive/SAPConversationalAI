@@ -29,9 +29,9 @@ The bot builder gives you access to:
 -   **Webhook features** to connect your bot to your own API or other services to fetch external data.
 
 ### TUTORIALS
-* [Your first bot](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with Bot Builder
-* [Bots 101, Intro for Developers](https://recast.ai/blog/bots-introduction-developers/) - Overview of how to get started building your bot's server
-* [Python Tutorial](https://recast.ai/blog/python-cryptobot/) - Build a cryptobot with Bot Builder and a server
+* [Your first bot [NodeJS]](https://blog.recast.ai/build-your-first-bot-with-recast-ai/) - Build your first bot with Bot Builder
+* [Build a movie bot with Recast.AI [NodeJS]](https://recast.ai/blog/nodejs-chatbot-movie-bot/) - Overview of how to get started building your bot's server and calling third party APIs.
+* [Build a cryptocurrency chatbot with Recast.AI [Python]](https://recast.ai/blog/python-cryptobot/) - Build a bot able to fetch cryptocurrencies price.
 
 ### RESOURCES
 * [Bot Builder Guide](https://recast.ai/docs): Best practices and tips to use the Recast.AI platform 
@@ -65,6 +65,8 @@ The bot builder gives you access to:
 - [ ] Salesforce integration
 - [ ] Add the ability to label entities in the Log Feed
 - [x] Add Twitch channel
+
+[PROJECT ROADMAP](https://github.com/RecastAI/Recast.AI/projects/1)
 
 <br/>
 <p align="center">
