@@ -2,8 +2,8 @@
   <img src="assets/logo2.png" />
 </p>
 
-| [Getting Started](https://github.com/RecastAI/Recast.AI/blob/master/README.md#getting-started) | [API Documentation](https://recast.ai/docs/api-reference/) | [Updates Status](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [Contribute](https://github.com/RecastAI/Recast.AI/blob/master/README.md#contribute-or-create-new-sdks-for-our-api) | [Service Status](https://status.recast.ai/) | [License](https://recast.ai/terms) |
-|---|---|---|---|---|---|
+| [Getting Started](https://github.com/RecastAI/Recast.AI/blob/master/README.md#getting-started) | [API Documentation](https://recast.ai/docs/api-reference/) | [Builder Guide](https://recast.ai/docs/create-your-bot) | [Updates Status](https://github.com/RecastAI/Recast.AI/blob/master/README.md#status---major-updates) | [Contribute](https://github.com/RecastAI/Recast.AI/blob/master/README.md#contribute-or-create-new-sdks-for-our-api) | [Service Status](https://status.recast.ai/) | [License](https://recast.ai/terms) |
+|---|---|---|---|---|---|---|
 
 
 **[ :speech_balloon: Questions / Comments? Join the discussion on our community Slack channel!](https://slack.recast.ai/)**
