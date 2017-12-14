@@ -10,7 +10,7 @@
 
 ## WHAT IS RECAST.AI?
 
-We build products to help brands and individuals have a better understanding of user inputs.
+We build products to help enterprises and developers have a better understanding of user inputs.
 
 -   **NLP API**: a unique API for text processing, and augmented training.
 -   **Bot Building Tools**: all you need to create smart bots powered by Recast.AI's NLP API. Design even the most complex conversation flow, use all rich messaging formats and connect to external APIs and services.
