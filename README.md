@@ -29,7 +29,7 @@ The bot builder gives you access to:
 -   **Webhook features** to connect your bot to your own API or other services to fetch external data.
 
 ### TUTORIALS
-* [Your first bot [NodeJS]](https://blog.cai.tools.sap/build-your-first-bot-with-recast-ai/) - Build your first bot with Bot Builder
+* [Your first bot [NodeJS]](https://blog.cai.tools.sap/build-your-first-bot-with-sap-conversational-ai/) - Build your first bot with Bot Builder
 * [Build a movie bot with SAP Conversational AI [NodeJS]](https://cai.tools.sap/blog/nodejs-chatbot-movie-bot/) - Overview of how to get started building your bot's server and calling third party APIs.
 * [Build a cryptocurrency chatbot with SAP Conversational AI [Python]](https://cai.tools.sap/blog/python-cryptobot/) - Build a bot able to fetch cryptocurrencies price.
 
@@ -39,7 +39,7 @@ The bot builder gives you access to:
 
 ## STATUS - MAJOR UPDATES
 
-* [Bot Skills](https://cai.tools.sap/blog/build-your-first-bot-with-recast-ai/?utm_source=crepe&utm_medium=bot) (December 4, 2017): Autonomous conversational modules included in our Bot Builder tool. 
+* [Bot Skills](https://cai.tools.sap/blog/build-your-first-bot-with-sap-conversational-ai/?utm_source=crepe&utm_medium=bot) (December 4, 2017): Autonomous conversational modules included in our Bot Builder tool. 
 * [Expression Suggestions](https://cai.tools.sap/blog/ai-building-ai/?utm_source=crepe&utm_medium=bot) (October 5, 2017): Automatic suggestions while creating expressions = blazing fast training. 
 * [Any Language](https://cai.tools.sap/blog/tuto-any-language/?utm_source=crepe&utm_medium=bot) (July 10, 2017): All existing languages are now available on our platform.
 
