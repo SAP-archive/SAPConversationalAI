@@ -77,9 +77,7 @@ The bot builder gives you access to:
 * [NodeJS](https://github.com/SAPConversationalAI/SDK-NodeJS)
 * [Ruby](https://github.com/SAPConversationalAI/SDK-ruby)
 * [Python](https://github.com/SAPConversationalAI/SDK-python)
-* [JS Library](https://github.com/SAPConversationalAI/Library-JavaScript)
 * [PHP](https://github.com/SAPConversationalAI/SDK-PHP)
-* [Golang](https://github.com/SAPConversationalAI/SDK-Golang)
 * [IOS](https://github.com/SAPConversationalAI/SDK-iOS)
 * [Android](https://github.com/SAPConversationalAI/SDK-Android)
 
